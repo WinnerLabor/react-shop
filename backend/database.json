@@ -56,7 +56,7 @@
       "description": "AirTag is an easy way to keep track of your stuff. Attach one to your keys, slip another one in your backpack. And just like that, they’re on your radar in the Find My app. AirTag has your back.",
       "price": 29,
       "inStock": 30,
-      "picture": "https://github.com/maslomeister/react-shop/blob/master/frontend/public/images/airtag.png?raw=true"
+      "picture": "https://github.com/WinnerLabor/react-shop/blob/main/frontend/public/images/airtag.png?raw=true"
     },
     "6": {
       "name": "Apple Watch Ultra",
