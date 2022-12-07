@@ -1,0 +1,43 @@
+.navbar {
+  position: relative;
+  height: 60px;
+  width: 100%;
+  color: #fff;
+  background-color: #303030;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  padding: 16px 32px;
+}
+
+.submenu {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.username {
+  padding-right: 16px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+.link {
+  text-decoration: none;
+  color: #ffffffcc;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
